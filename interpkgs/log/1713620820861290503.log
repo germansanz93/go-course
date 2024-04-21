@@ -1,0 +1,5 @@
+success: 2024/04/20 10:47:00 main.go:25: test 1
+success: 2024/04/20 10:47:00 main.go:26: test 2
+success: 2024/04/20 10:47:00 main.go:27: test 3
+errors: 2024/04/20 10:47:00 main.go:30: test 4
+errors: 2024/04/20 10:47:00 main.go:31: test 5
